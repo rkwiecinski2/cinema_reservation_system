@@ -4,7 +4,6 @@ from cinema import Cinema
 from films import *
 from helpers import *
 
-
 def buy_a_ticket():
 
     greenmile = The_Green_Mile()
